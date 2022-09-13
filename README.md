@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deep!!</h1>
 <h3 align="center">A passionate Software Developer from Waterloo, Canada</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **AWS**
 
