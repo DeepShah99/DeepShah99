@@ -1,7 +1,7 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+![MasterHead](https://codexio.in/images/elements/software-development/software-vector.png)
 <h1 align="center">Hi 👋, I'm Deep!!</h1>
 <h3 align="center">A passionate Software Developer from Waterloo, Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently working on **AWS**
 
