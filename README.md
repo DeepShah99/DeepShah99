@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Dockers, Git**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeepShah99?tab=repositories](https://github.com/DeepShah99?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/deep-shah-378458191/](https://www.linkedin.com/in/deep-shah-378458191/)
-
 - 💬 Ask me about **AWS Certs, Embedded Programming!**
 
 - 📫 How to reach me **deepshah1621@gmail.com**
